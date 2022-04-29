@@ -1048,3 +1048,8 @@
 35	202	6728609682538617	bootloader/bootloader.elf	d9fd4c6e0f401500
 35	202	6728609682538617	bootloader/bootloader.bin	d9fd4c6e0f401500
 35	202	6728609682538617	bootloader/bootloader.map	d9fd4c6e0f401500
+98	221	0	esp-idf/esptool_py/CMakeFiles/app_check_size	2ec7d04062d13771
+94	246	6728609682538617	bootloader-prefix/src/bootloader-stamp/bootloader-build	d9fd4c6e0f401500
+94	246	6728609682538617	bootloader/bootloader.elf	d9fd4c6e0f401500
+94	246	6728609682538617	bootloader/bootloader.bin	d9fd4c6e0f401500
+94	246	6728609682538617	bootloader/bootloader.map	d9fd4c6e0f401500
